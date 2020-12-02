@@ -194,7 +194,9 @@ div > .text-intro-2{
   
   #flex{
       display: flex;
+      flex-wrap: wrap;
       border: 2px solid #ccc;
+      border-radius: 5px;
   }
   
   .banner-sub-heading > h2 {
@@ -217,4 +219,4 @@ div > .text-intro-2{
     }
 
 
- 
+  
